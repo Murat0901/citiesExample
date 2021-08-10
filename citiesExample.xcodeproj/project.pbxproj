@@ -63,11 +63,11 @@
 				41AECF5826C1361A00B73677 /* AppDelegate.swift */,
 				41AECF5A26C1361A00B73677 /* SceneDelegate.swift */,
 				41AECF5C26C1361A00B73677 /* ViewController.swift */,
+				41AECF6C26C1382500B73677 /* DetailsViewController.swift */,
 				41AECF5E26C1361A00B73677 /* Main.storyboard */,
 				41AECF6126C1362200B73677 /* Assets.xcassets */,
 				41AECF6326C1362200B73677 /* LaunchScreen.storyboard */,
 				41AECF6626C1362200B73677 /* Info.plist */,
-				41AECF6C26C1382500B73677 /* DetailsViewController.swift */,
 				41AECF6E26C13D3800B73677 /* Citites.swift */,
 			);
 			path = citiesExample;

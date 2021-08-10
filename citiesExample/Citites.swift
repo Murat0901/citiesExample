@@ -10,7 +10,13 @@ import UIKit
 
 class Cities{
     
-    var city = ""
-    var country = ""
-    var img = UIImage()
+    var city : String
+    var country : String
+    var img : UIImage
+    
+    init(city: String, country: String, img: UIImage) {
+        self.city = city
+        self.country = country
+        self.img=img
+    }
 }
